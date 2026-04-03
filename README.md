@@ -56,12 +56,11 @@ The goal of this project is to demonstrate practical Tableau dashboard developme
 
 <img width="1561" height="820" alt="image" src="https://github.com/user-attachments/assets/758b8991-46ae-42ec-9d7b-c662e810dcb8" />
 [- Tableau Public dashboard link
-](https://public.tableau.com/app/profile/melike.emine.zyavuz/viz/SaaSRevenuePerformanceDashboard-MelikeEmineOzyavuz/SaaSRevenuePerformanceDashboard?publish=yes)
 - (Optional) dashboard demo video
 
 ## Tableau Public Link
 
-_Add your Tableau Public link here_
+[_Add your Tableau Public link here_](https://public.tableau.com/app/profile/melike.emine.zyavuz/viz/SaaSRevenuePerformanceDashboard-MelikeEmineOzyavuz/SaaSRevenuePerformanceDashboard?publish=yes)
 
 ## Author
 
