@@ -56,6 +56,9 @@ The goal of this project is to demonstrate practical Tableau dashboard developme
 
 <img width="1561" height="820" alt="image" src="https://github.com/user-attachments/assets/758b8991-46ae-42ec-9d7b-c662e810dcb8" />
 
+Dashboard Video Link
+https://youtu.be/kQ1ga9xQhcs
+
 
 ## Tableau Public Link
 
